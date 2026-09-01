@@ -1,3 +1,3 @@
 window.CALENDAR_SETTINGS = {
-  submissionFormUrl: "PASTE_GOOGLE_FORM_RESPONDER_URL_HERE"
+  submissionFormUrl: https://forms.gle/66UzY2RPvxFgQVcs8
 };
