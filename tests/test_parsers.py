@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 
 from bs4 import BeautifulSoup
-from scrape import TZ, parse_festival_hall_soup, parse_local, parse_night_market_soup, parse_offcut_soup, times_in, valid_future
+from scrape import TZ, parse_festival_hall_soup, parse_local, parse_night_market_soup, parse_offcut_soup, parse_submissions_csv, times_in, valid_future
 
 def test_times_support_punctuation_and_ranges():
     assert times_in("4:30 pm No cover") == ["4:30 pm"]
@@ -40,3 +40,14 @@ def test_night_market_extracts_every_date_and_inherits_month():
     assert len(got)==6
     assert [x["start"][5:10] for x in got]==["05-08","06-12","07-10","08-14","09-04","09-11"]
     assert all(x["start"][11:16]=="17:00" and x["end"][11:16]=="22:00" for x in got)
+
+def test_google_sheet_submissions_are_validated_and_optionally_approved():
+    csv_text='''Event name,Venue,Start date,Start time,End date,End time,Event URL,Description,Approved
+Good Show,Test Hall,September 20 2026,7:30 pm,September 20 2026,9:00 pm,https://example.com/good,Live music,Yes
+Rejected Show,Test Hall,September 21 2026,7:30 pm,,,https://example.com/nope,,No
+Bad Link,Test Hall,September 22 2026,7:30 pm,,,javascript:alert(1),,Yes
+'''
+    got=parse_submissions_csv(csv_text,"https://forms.google.com/example")
+    assert [x["title"] for x in got]==["Good Show","Bad Link"]
+    assert got[0]["end"].endswith("21:00:00-06:00")
+    assert got[1]["url"]=="https://forms.google.com/example"

@@ -13,11 +13,15 @@ A beginner-friendly scraper that combines publicly listed events from Music Mile
 
 The workflow runs every Monday. GitHub may disable scheduled workflows after 60 days with no repository activity; if that happens, open **Actions** and re-enable it.
 
-The most active sources have dedicated adapters: King Eddy and Studio Bell use their event-card markup; Ironwood and Gravity use their public Stagehand listings; The Attic generates the recurring series explicitly described on its events page; and the Calgary Folk Fest listing is filtered to cards whose venue field is exactly `Festival Hall`. Dates that cannot be parsed, dates more than two years away, and events that have ended are not published.
+The most active sources have dedicated adapters: King Eddy and Studio Bell use their event-card markup; Ironwood and Gravity use their public Stagehand listings; The Attic and Offcut Bar generate only the recurring series explicitly described on their event pages; the Night Market adapter expands every date in its compact seasonal date list; and the Calgary Folk Fest listing is filtered to cards whose venue field is exactly `Festival Hall`. Dates that cannot be parsed, dates more than two years away, and events that have ended are not published.
 
 ## Change or add a venue
 
 Open `config/venues.yml` on GitHub, click the pencil icon, edit a name or URL, and commit. The next run will use it. The webpage's **Source status** section shows failures and zero-result sources because venue websites sometimes change.
+
+## Accept moderated event submissions
+
+Follow `GOOGLE_FORM_SETUP.md` to connect a Google Form and an approved-only Google Sheet export. Once configured, the webpage displays a **Submit an event** button and the workflow imports approved future events alongside scraped venue events.
 
 ## Test on your computer (optional)
 

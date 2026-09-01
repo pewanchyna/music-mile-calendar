@@ -2,7 +2,7 @@
 """Build docs/events.json from public Music Mile venue listings."""
 from __future__ import annotations
 
-import calendar, hashlib, json, re, sys
+import calendar, csv, hashlib, io, json, re, sys
 from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -35,6 +35,36 @@ def event(name, venue, start, url, description="", end=None):
             "url": url, "description": clean(description)[:500]}
     if end: result["end"]=end
     return result
+
+def parse_submissions_csv(csv_text, source_url):
+    """Convert approved/exported Google Sheet rows into calendar events."""
+    out=[]
+    for row in csv.DictReader(io.StringIO(csv_text.lstrip("\ufeff"))):
+        values={clean(k).casefold():clean(v) for k,v in row.items() if k}
+        def get(*names):
+            return next((values.get(name.casefold(),"") for name in names if values.get(name.casefold(),"")),"")
+        approved=get("Approved")
+        if approved and approved.casefold() not in {"yes","approved","true","1"}: continue
+        title=get("Event name","Title"); venue=get("Venue")
+        start_date=get("Start date"); start_time=get("Start time")
+        if not all((title,venue,start_date,start_time)): continue
+        try:
+            start=parse_local(start_date,start_time)
+            end_date=get("End date") or start_date; end_time=get("End time")
+            end=parse_local(end_date,end_time) if end_time else None
+            if end and end<start: continue
+        except (ValueError,OverflowError): continue
+        url=get("Event URL","Event or ticket URL","URL")
+        if url and not re.match(r"^https?://",url,re.I): url=""
+        description=get("Description")
+        out.append(event(title,venue,start.isoformat(),url or source_url,
+                         "Community submission. "+description,end.isoformat() if end else None))
+    return out
+
+def scrape_submissions(config):
+    response=requests.get(config["csv_url"],headers=HEADERS,timeout=35)
+    response.raise_for_status()
+    return parse_submissions_csv(response.text,config.get("form_url",config["csv_url"]))
 
 def parse_local(date_text, time_text="7:00 pm"):
     """Parse a venue's Calgary-local date and time into a timezone-aware ISO value."""
@@ -264,6 +294,19 @@ def main():
         except Exception as exc:
             status.append({"venue":source["name"],"ok":False,"events":0,"url":source["url"],"error":str(exc)[:180]})
             print(f"WARN {source['name']}: {exc}",file=sys.stderr)
+    submissions_path=ROOT/"config/submissions.yml"
+    if submissions_path.exists():
+        submissions=yaml.safe_load(submissions_path.read_text()) or {}
+        if submissions.get("csv_url"):
+            try:
+                got=scrape_submissions(submissions); events.extend(got)
+                status.append({"venue":"Community submissions","ok":True,"events":len(got),
+                               "url":submissions.get("form_url","")})
+                print(f"OK Community submissions: {len(got)}")
+            except Exception as exc:
+                status.append({"venue":"Community submissions","ok":False,"events":0,
+                               "url":submissions.get("form_url",""),"error":str(exc)[:180]})
+                print(f"WARN Community submissions: {exc}",file=sys.stderr)
     now=datetime.now(TZ)
     events={x["id"]:x for x in events if valid_future(x,now)}
     payload={"generatedAt":datetime.now(TZ).isoformat(),"events":sorted(events.values(),key=lambda x:x["start"]),"sources":status}

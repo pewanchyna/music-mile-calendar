@@ -13,9 +13,6 @@ venues:
   - name: The Eden
     url: https://www.edenbistro.ca/
     parser: generic
-  ##- name: Esker Foundation
-    ##url: https://eskerfoundation.com/
-    ##parser: generic
   - name: Festival Hall
     url: https://www.calgaryfolkfest.com/whats-on
     parser: festival_hall

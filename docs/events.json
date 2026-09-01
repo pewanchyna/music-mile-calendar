@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:08:31.303170-06:00",
+  "generatedAt": "2026-09-01T11:49:01.248047-06:00",
   "events": [
     {
       "id": "c32859275caf6183",
@@ -1500,444 +1500,444 @@
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "46207d5e69f656b3",
+      "id": "2406d3eb3308628b",
       "title": "Morning Glory Burlesque Brunch",
       "venue": "The Attic",
-      "start": "2026-11-01T12:00:00-06:00",
+      "start": "2026-11-01T12:00:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "8f0709caa3acc7b3",
+      "id": "9b1ee6fc24f54757",
       "title": "Liner Notes: Inside the Rolling Stones Mobile Studio — 'Mystery to Me'",
       "venue": "Studio Bell",
-      "start": "2026-11-01T14:00:00-06:00",
+      "start": "2026-11-01T14:00:00-07:00",
       "url": "https://www.studiobell.ca/whats-on/event/liner-notes-inside-the-rolling-stones-mobile-studio-mystery-to-me-2/",
       "description": "Liner Notes: Inside the Rolling Stones Mobile Studio is part storytelling tour, part listening session, exploring 'Mystery to Me' and other legendary albums recorded in the RSM."
     },
     {
-      "id": "210cb77ca5e39f38",
+      "id": "b1d97c561c53d5df",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
-      "start": "2026-11-01T19:30:00-06:00",
+      "start": "2026-11-01T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "b80e63ed8906de5e",
+      "id": "6326cee723d878d4",
       "title": "Thursday Live Music",
       "venue": "The Nash / Offcut Bar",
-      "start": "2026-11-05T19:00:00-06:00",
+      "start": "2026-11-05T19:00:00-07:00",
       "url": "https://www.offcutbar.com/sesh",
       "description": "No cover. Recurring Thursday live music; confirm details before attending.",
-      "end": "2026-11-05T21:00:00-06:00"
+      "end": "2026-11-05T21:00:00-07:00"
     },
     {
-      "id": "62d00c0b2ce24398",
+      "id": "069dde3dbe68cf66",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
-      "start": "2026-11-05T19:30:00-06:00",
+      "start": "2026-11-05T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "1e3a11a7efe89291",
+      "id": "c7796c620ea75471",
       "title": "Gateway Events Presents: Matthew Byrne",
       "venue": "The King Eddy",
-      "start": "2026-11-05T19:30:00-06:00",
+      "start": "2026-11-05T19:30:00-07:00",
       "url": "https://kingeddy.ca/event/gateway-events-presents-matthew-byrne/",
       "description": "7:30 pm $25"
     },
     {
-      "id": "5305522584479568",
+      "id": "8e6131887ba77e81",
       "title": "Genevieve Racette and Kate Stevens",
       "venue": "The King Eddy",
-      "start": "2026-11-06T20:30:00-06:00",
+      "start": "2026-11-06T20:30:00-07:00",
       "url": "https://kingeddy.ca/event/genevieve-racette-and-kate-stevens/",
       "description": "8:30 pm $20 in advance or $25 at the door"
     },
     {
-      "id": "6f9a2cb3fa287751",
+      "id": "9c8551d2fe491b11",
       "title": "Carly's Angels Drag Show",
       "venue": "The Attic",
-      "start": "2026-11-07T20:00:00-06:00",
+      "start": "2026-11-07T20:00:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "8e2b006c5c23f839",
+      "id": "1ccfc039953e2738",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
-      "start": "2026-11-08T19:30:00-06:00",
+      "start": "2026-11-08T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "35bc0bc89a36d699",
+      "id": "0d44b4f5d0a06c6f",
       "title": "The Jazz Room: Marvin Gaye in a Night of Soul",
       "venue": "Studio Bell",
-      "start": "2026-11-12T18:00:00-06:00",
+      "start": "2026-11-12T18:00:00-07:00",
       "url": "https://www.studiobell.ca/whats-on/event/the-jazz-room-2026-11-12/",
       "description": "Welcome to The Jazz Room! Step into iconic venues, be swept away by world-class musicians, and rediscover timeless hits and legendary tributes."
     },
     {
-      "id": "36005aae56490e34",
+      "id": "cfbfc87dac502b31",
       "title": "Thursday Live Music",
       "venue": "The Nash / Offcut Bar",
-      "start": "2026-11-12T19:00:00-06:00",
+      "start": "2026-11-12T19:00:00-07:00",
       "url": "https://www.offcutbar.com/sesh",
       "description": "No cover. Recurring Thursday live music; confirm details before attending.",
-      "end": "2026-11-12T21:00:00-06:00"
+      "end": "2026-11-12T21:00:00-07:00"
     },
     {
-      "id": "2692152157152ed3",
+      "id": "f000dabc3604afd7",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
-      "start": "2026-11-12T19:30:00-06:00",
+      "start": "2026-11-12T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "7956ed48e9343b28",
+      "id": "a48a7e421b78451a",
       "title": "The Jazz Room: Marvin Gaye in a Night of Soul",
       "venue": "Studio Bell",
-      "start": "2026-11-12T20:30:00-06:00",
+      "start": "2026-11-12T20:30:00-07:00",
       "url": "https://www.studiobell.ca/whats-on/event/the-jazz-room-2026-11-12/",
       "description": "Welcome to The Jazz Room! Step into iconic venues, be swept away by world-class musicians, and rediscover timeless hits and legendary tributes."
     },
     {
-      "id": "e0d19fb8e9d89b72",
+      "id": "e0a05e2992ac2908",
       "title": "\"The Never Ending Road Tour\" with John Muirhead",
       "venue": "Festival Hall",
-      "start": "2026-11-13T20:00:00-06:00",
+      "start": "2026-11-13T20:00:00-07:00",
       "url": "https://www.showpass.com/john-muirhead-the-never-ending-road-tour-with-sarah-vanderzon/",
       "description": "Venue: Festival Hall"
     },
     {
-      "id": "a7d1b0c696ec68b7",
+      "id": "7f4d6b251e2b5329",
       "title": "Carly's Angels Drag Show",
       "venue": "The Attic",
-      "start": "2026-11-14T20:00:00-06:00",
+      "start": "2026-11-14T20:00:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "2b6108fcb6e98add",
+      "id": "aafb09a55b1b03eb",
       "title": "Devilled Legs Drag Brunch",
       "venue": "The Attic",
-      "start": "2026-11-15T11:45:00-06:00",
+      "start": "2026-11-15T11:45:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "aed6295b2b0ab1e1",
+      "id": "493140ebe35d906d",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
-      "start": "2026-11-15T19:30:00-06:00",
+      "start": "2026-11-15T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "ad88b044e9748cb0",
+      "id": "38ea6e0672f0e71b",
       "title": "Calgary Songsmith",
       "venue": "Gravity Espresso & Wine Bar",
-      "start": "2026-11-17T20:00:00-06:00",
+      "start": "2026-11-17T19:00:00-07:00",
       "url": "https://www.stagehand.app/events/23411",
       "description": "Canada's largest independent songwriter group...going strong since 2003! (Sponsored by Simply Socials, the Calgary Folk Club, Studio D, Tree Picks and the National Music Centre) We support both new and established songwriters in southern Alberta with workshops, resources, mentoring, opportunities to perform, and educational sessions on different aspects of the songwriting business. There are no membership fees and the sessions are open to all ages.",
-      "end": "2026-11-17T22:00:00-06:00"
+      "end": "2026-11-17T21:00:00-07:00"
     },
     {
-      "id": "f9db09f258989742",
+      "id": "08a4c595d636f03c",
       "title": "Thursday Live Music",
       "venue": "The Nash / Offcut Bar",
-      "start": "2026-11-19T19:00:00-06:00",
+      "start": "2026-11-19T19:00:00-07:00",
       "url": "https://www.offcutbar.com/sesh",
       "description": "No cover. Recurring Thursday live music; confirm details before attending.",
-      "end": "2026-11-19T21:00:00-06:00"
+      "end": "2026-11-19T21:00:00-07:00"
     },
     {
-      "id": "a1663d0f7022ce59",
+      "id": "2435ed0ec6f1ff4f",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
-      "start": "2026-11-19T19:30:00-06:00",
+      "start": "2026-11-19T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "a7a50bb156f2b89b",
+      "id": "78012e4098de65eb",
       "title": "Carly's Angels Drag Show",
       "venue": "The Attic",
-      "start": "2026-11-21T20:00:00-06:00",
+      "start": "2026-11-21T20:00:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "a247bf5c9273d638",
+      "id": "3edb66134e01f00d",
       "title": "Gateway Events & Tooth Blackner Present: Mia Kelly",
       "venue": "The King Eddy",
-      "start": "2026-11-21T20:30:00-06:00",
+      "start": "2026-11-21T20:30:00-07:00",
       "url": "https://kingeddy.ca/event/gateway-events-tooth-blackner-present-mia-kelly/",
       "description": "8:30 pm $30"
     },
     {
-      "id": "78c487de4ed89830",
+      "id": "e2c15d07b76b2493",
       "title": "NMC Presents: The Barra MacNeils — An East Coast Christmas",
       "venue": "Studio Bell",
-      "start": "2026-11-22T14:00:00-06:00",
+      "start": "2026-11-22T14:00:00-07:00",
       "url": "https://www.studiobell.ca/whats-on/event/nmc-presents-the-barra-macneils-an-east-coast-christmas/",
       "description": "Celebrate the season East Coast–style at Studio Bell as The Barra MacNeils fill the hall with soaring harmonies, fiery fiddles, and the joyful spirit of a Cape Breton Christmas."
     },
     {
-      "id": "770c0a0ccc113888",
+      "id": "e3c0e09ec6bc8b54",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
-      "start": "2026-11-22T19:30:00-06:00",
+      "start": "2026-11-22T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "094d5d318fcc978d",
+      "id": "843c61b434a0d0f7",
       "title": "Thursday Live Music",
       "venue": "The Nash / Offcut Bar",
-      "start": "2026-11-26T19:00:00-06:00",
+      "start": "2026-11-26T19:00:00-07:00",
       "url": "https://www.offcutbar.com/sesh",
       "description": "No cover. Recurring Thursday live music; confirm details before attending.",
-      "end": "2026-11-26T21:00:00-06:00"
+      "end": "2026-11-26T21:00:00-07:00"
     },
     {
-      "id": "8ad8f31ae93254b0",
+      "id": "ace43a97245223fb",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
-      "start": "2026-11-26T19:30:00-06:00",
+      "start": "2026-11-26T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "14c20d555ff3ac67",
+      "id": "191b12b6d47d027f",
       "title": "Leopard Lounge Sketch Comedy",
       "venue": "The Attic",
-      "start": "2026-11-27T20:30:00-06:00",
+      "start": "2026-11-27T20:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "fe8be768e288b273",
+      "id": "a6d14db360957d83",
       "title": "Carly's Angels Drag Show",
       "venue": "The Attic",
-      "start": "2026-11-28T20:00:00-06:00",
+      "start": "2026-11-28T20:00:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "1f12e428b2e475a0",
+      "id": "acf89cfd16920934",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
-      "start": "2026-11-29T19:30:00-06:00",
+      "start": "2026-11-29T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "f559c514514ca638",
+      "id": "c8402bece74f6739",
       "title": "Jesse Roper Live at Festival Hall 2026",
       "venue": "Festival Hall",
-      "start": "2026-12-03T19:00:00-06:00",
+      "start": "2026-12-03T19:00:00-07:00",
       "url": "https://www.showpass.com/jesse-roper-early-show/",
       "description": "Venue: Festival Hall"
     },
     {
-      "id": "b7a60d67db510011",
+      "id": "8b204e08ad306244",
       "title": "Thursday Live Music",
       "venue": "The Nash / Offcut Bar",
-      "start": "2026-12-03T19:00:00-06:00",
+      "start": "2026-12-03T19:00:00-07:00",
       "url": "https://www.offcutbar.com/sesh",
       "description": "No cover. Recurring Thursday live music; confirm details before attending.",
-      "end": "2026-12-03T21:00:00-06:00"
+      "end": "2026-12-03T21:00:00-07:00"
     },
     {
-      "id": "b93b895917d4bd42",
+      "id": "8e8ac0b7b2c215d8",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
-      "start": "2026-12-03T19:30:00-06:00",
+      "start": "2026-12-03T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "99d45aa9430bee08",
+      "id": "a0cbdfcb23453b18",
       "title": "Carly's Angels Drag Show",
       "venue": "The Attic",
-      "start": "2026-12-05T20:00:00-06:00",
+      "start": "2026-12-05T20:00:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "5126968a36248fa1",
+      "id": "bb2b48ed377cce5f",
       "title": "Morning Glory Burlesque Brunch",
       "venue": "The Attic",
-      "start": "2026-12-06T12:00:00-06:00",
+      "start": "2026-12-06T12:00:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "18808a1e673fbb14",
+      "id": "661877540ca3175c",
       "title": "Liner Notes: Inside the Rolling Stones Mobile Studio — 'Machine Head'",
       "venue": "Studio Bell",
-      "start": "2026-12-06T14:00:00-06:00",
+      "start": "2026-12-06T14:00:00-07:00",
       "url": "https://www.studiobell.ca/whats-on/event/liner-notes-inside-the-rolling-stones-mobile-studio-machine-head-2/",
       "description": "Liner Notes: Inside the Rolling Stones Mobile Studio is part storytelling tour, part listening session, exploring 'Machine Head' and other legendary albums recorded in the RSM."
     },
     {
-      "id": "86cfe28493bf5fcc",
+      "id": "7c62fba1f1158075",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
-      "start": "2026-12-06T19:30:00-06:00",
+      "start": "2026-12-06T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "95d11192b1430998",
+      "id": "1c4968e623c859ea",
       "title": "Thursday Live Music",
       "venue": "The Nash / Offcut Bar",
-      "start": "2026-12-10T19:00:00-06:00",
+      "start": "2026-12-10T19:00:00-07:00",
       "url": "https://www.offcutbar.com/sesh",
       "description": "No cover. Recurring Thursday live music; confirm details before attending.",
-      "end": "2026-12-10T21:00:00-06:00"
+      "end": "2026-12-10T21:00:00-07:00"
     },
     {
-      "id": "7ee33a901db8b084",
+      "id": "95f59cbc3ad0f618",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
-      "start": "2026-12-10T19:30:00-06:00",
+      "start": "2026-12-10T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "5357263f3892f135",
+      "id": "1b2e38a76c654f66",
       "title": "Carly's Angels Drag Show",
       "venue": "The Attic",
-      "start": "2026-12-12T20:00:00-06:00",
+      "start": "2026-12-12T20:00:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "a947f31ac7904537",
+      "id": "895d16aec830cbb2",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
-      "start": "2026-12-13T19:30:00-06:00",
+      "start": "2026-12-13T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "b0e3f1561f33cc32",
+      "id": "9e4920418225dfdd",
       "title": "NMC Presents: A Holly Jolly Jill Barber Christmas",
       "venue": "Studio Bell",
-      "start": "2026-12-13T19:30:00-06:00",
+      "start": "2026-12-13T19:30:00-07:00",
       "url": "https://www.studiobell.ca/whats-on/event/a-holly-jolly-jill-barber-christmas/",
       "description": "Join Jill Barber and her jingly jangly jazz quartet as they take you on a nostalgic musical sleigh ride through decades of beloved Christmas standards."
     },
     {
-      "id": "25b6bbf744ee8aff",
+      "id": "cc2a8bdeebd645cc",
       "title": "Calgary Songsmith",
       "venue": "Gravity Espresso & Wine Bar",
-      "start": "2026-12-15T20:00:00-06:00",
+      "start": "2026-12-15T19:00:00-07:00",
       "url": "https://www.stagehand.app/events/23412",
       "description": "Canada's largest independent songwriter group...going strong since 2003! (Sponsored by Simply Socials, the Calgary Folk Club, Studio D, Tree Picks and the National Music Centre) We support both new and established songwriters in southern Alberta with workshops, resources, mentoring, opportunities to perform, and educational sessions on different aspects of the songwriting business. There are no membership fees and the sessions are open to all ages. — Free",
-      "end": "2026-12-15T22:00:00-06:00"
+      "end": "2026-12-15T21:00:00-07:00"
     },
     {
-      "id": "d5ddf4663eca141a",
+      "id": "60524c7964885f08",
       "title": "Thursday Live Music",
       "venue": "The Nash / Offcut Bar",
-      "start": "2026-12-17T19:00:00-06:00",
+      "start": "2026-12-17T19:00:00-07:00",
       "url": "https://www.offcutbar.com/sesh",
       "description": "No cover. Recurring Thursday live music; confirm details before attending.",
-      "end": "2026-12-17T21:00:00-06:00"
+      "end": "2026-12-17T21:00:00-07:00"
     },
     {
-      "id": "0306553d9d9e648d",
+      "id": "1872e36eaa8e5105",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
-      "start": "2026-12-17T19:30:00-06:00",
+      "start": "2026-12-17T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "ad3af4d276804a93",
+      "id": "abac419b58e6a74f",
       "title": "Carly's Angels Drag Show",
       "venue": "The Attic",
-      "start": "2026-12-19T20:00:00-06:00",
+      "start": "2026-12-19T20:00:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "6bc03dfb69ff03e2",
+      "id": "d3be90f14ce2c165",
       "title": "Devilled Legs Drag Brunch",
       "venue": "The Attic",
-      "start": "2026-12-20T11:45:00-06:00",
+      "start": "2026-12-20T11:45:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "f8c80255184e90a2",
+      "id": "ef2c75e22033cd01",
       "title": "The Jazz Room: A Journey to the Heart of New Orleans",
       "venue": "Studio Bell",
-      "start": "2026-12-20T18:00:00-06:00",
+      "start": "2026-12-20T18:00:00-07:00",
       "url": "https://www.studiobell.ca/whats-on/event/the-jazz-room-2026-12-20/",
       "description": "Welcome to The Jazz Room! Step into iconic venues, be swept away by world-class musicians, and rediscover timeless hits and legendary tributes."
     },
     {
-      "id": "09c727a08024b36a",
+      "id": "232316e01751d3a8",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
-      "start": "2026-12-20T19:30:00-06:00",
+      "start": "2026-12-20T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "84d999ba2d7b93f2",
+      "id": "c4ad4b323b6b123f",
       "title": "The Jazz Room: A Journey to the Heart of New Orleans",
       "venue": "Studio Bell",
-      "start": "2026-12-20T20:30:00-06:00",
+      "start": "2026-12-20T20:30:00-07:00",
       "url": "https://www.studiobell.ca/whats-on/event/the-jazz-room-2026-12-20/",
       "description": "Welcome to The Jazz Room! Step into iconic venues, be swept away by world-class musicians, and rediscover timeless hits and legendary tributes."
     },
     {
-      "id": "9871d4c50bf0cf42",
+      "id": "3af5d979df2f98ee",
       "title": "Thursday Live Music",
       "venue": "The Nash / Offcut Bar",
-      "start": "2026-12-24T19:00:00-06:00",
+      "start": "2026-12-24T19:00:00-07:00",
       "url": "https://www.offcutbar.com/sesh",
       "description": "No cover. Recurring Thursday live music; confirm details before attending.",
-      "end": "2026-12-24T21:00:00-06:00"
+      "end": "2026-12-24T21:00:00-07:00"
     },
     {
-      "id": "6576c1f5d86f1c1e",
+      "id": "eff1da9065d2c088",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
-      "start": "2026-12-24T19:30:00-06:00",
+      "start": "2026-12-24T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "ccec8353569bcc5a",
+      "id": "49879b22ecded48a",
       "title": "Leopard Lounge Sketch Comedy",
       "venue": "The Attic",
-      "start": "2026-12-25T20:30:00-06:00",
+      "start": "2026-12-25T20:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "3e067e7a42efc001",
+      "id": "b26dc1f9a2a31ed0",
       "title": "Carly's Angels Drag Show",
       "venue": "The Attic",
-      "start": "2026-12-26T20:00:00-06:00",
+      "start": "2026-12-26T20:00:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
-      "id": "7aace1c79a8ae0cb",
+      "id": "c9cd1bb0552fada1",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
-      "start": "2026-12-27T19:30:00-06:00",
+      "start": "2026-12-27T19:30:00-07:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
     }
