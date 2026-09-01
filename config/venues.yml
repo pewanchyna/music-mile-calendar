@@ -47,8 +47,8 @@ venues:
     url: https://www.facebook.com/recordlandcalgary/
     parser: generic
   - name: The Nash / Offcut Bar
-    url: https://www.offcutbar.com/
-    parser: generic
+    url: https://www.offcutbar.com/sesh
+    parser: offcut
   - name: Studio Bell
     url: https://www.studiobell.ca/whats-on
     parser: studio_bell
