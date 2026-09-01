@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T12:06:26.733673-06:00",
+  "generatedAt": "2026-09-01T12:11:43.663352-06:00",
   "events": [
     {
       "id": "c32859275caf6183",
@@ -315,6 +315,14 @@
       "start": "2026-09-10T19:30:00-06:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "8c348be91ea65260",
+      "title": "The Cherry Motel",
+      "venue": "The King Eddy",
+      "start": "2026-09-10T19:30:00-06:00",
+      "url": "https://kingeddy.ca/event/the-cherry-motel-2/",
+      "description": "7:30 pm $10 cover"
     },
     {
       "id": "7eb838a5ae179791",
@@ -2042,15 +2050,14 @@
     {
       "venue": "The King Eddy",
       "ok": true,
-      "events": 22,
+      "events": 23,
       "url": "https://kingeddy.ca/whats-on/"
     },
     {
       "venue": "Community submissions",
-      "ok": false,
+      "ok": true,
       "events": 0,
-      "url": "PASTE_GOOGLE_FORM_RESPONDER_URL_HERE",
-      "error": "Invalid URL 'PASTE_PUBLISHED_CSV_URL_HERE': No scheme supplied. Perhaps you meant https://PASTE_PUBLISHED_CSV_URL_HERE?"
+      "url": "https://forms.gle/6K3d1zytLM64zMFg9"
     }
   ]
 }
