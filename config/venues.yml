@@ -13,7 +13,7 @@ venues:
   - name: The Eden
     url: https://www.edenbistro.ca/
     parser: generic
-  - ##name: Esker Foundation
+  ##- name: Esker Foundation
     ##url: https://eskerfoundation.com/
     ##parser: generic
   - name: Festival Hall
