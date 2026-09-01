@@ -5,6 +5,7 @@ from __future__ import annotations
 import calendar, csv, hashlib, io, json, re, sys
 from datetime import datetime, timedelta
 from pathlib import Path
+from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
 
 import requests, yaml
@@ -117,7 +118,8 @@ def dated_cards(soup, venue, url):
         title=clean(heading.get_text(" "))
         if start and 2 < len(title) < 160 and title.lower() not in ("events","what's on","upcoming events"):
             link=heading.find("a",href=True) or box.find("a",href=True)
-            out.append(event(title,venue,start,link["href"] if link else url,text))
+            event_url=urljoin(url,link["href"]) if link else url
+            out.append(event(title,venue,start,event_url,text))
     return out
 
 def scrape_king_eddy(source):
