@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:41:59.210138-06:00",
+  "generatedAt": "2026-09-01T10:47:51.963126-06:00",
   "events": [
     {
       "id": "c32859275caf6183",
@@ -25,6 +25,14 @@
       "url": "https://www.stagehand.app/events/22594",
       "description": "Hello Moth creates abstract synth-pop by night and ambient explosions by day, blending electronic tones with folk influences to create a sound somewhere between soil and sky. Exploring identity development, grief, and resilience, A.N. channels early 00s vibes while offering a fresh perspective on pop-rock — By Donation",
       "end": "2026-09-03T20:30:00-06:00"
+    },
+    {
+      "id": "4f71d7bdaf38636e",
+      "title": "Newcomer Artist in Residence Final Exhibit: Recipes from Home",
+      "venue": "Central Library",
+      "start": "2026-09-03T19:00:00-06:00",
+      "url": "/events-and-programs/arts-and-culture/artist-in-residence",
+      "description": "Newcomer Artist in Residence Final Exhibit: Recipes from Home Central Library | September 3 – 30 Recipes from Home shares an ongoing project that Maedeh began during her residency at the Library. The exhibit explores the ways food can carry memories, stories, comfort, and connection. Through this project, Maedeh is exploring how recipes hold memories and become a way of staying connected, being present, and slowing down during uncertain times. Learn more about the Newcomer Artist in Residence"
     },
     {
       "id": "ff500fbba65ad7d5",
@@ -1935,7 +1943,7 @@
     {
       "venue": "Central Library",
       "ok": true,
-      "events": 5,
+      "events": 6,
       "url": "https://www.calgarylibrary.ca/events-and-programs"
     },
     {
