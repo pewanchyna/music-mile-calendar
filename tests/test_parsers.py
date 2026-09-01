@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 
 from bs4 import BeautifulSoup
-from scrape import TZ, parse_festival_hall_soup, parse_local, times_in, valid_future
+from scrape import TZ, parse_festival_hall_soup, parse_local, parse_night_market_soup, parse_offcut_soup, times_in, valid_future
 
 def test_times_support_punctuation_and_ranges():
     assert times_in("4:30 pm No cover") == ["4:30 pm"]
@@ -25,3 +25,18 @@ def test_festival_hall_filter_is_exact():
     <div class="event-full-item"><div class="event-feature-info"><span>13 Sep</span><span>7 PM</span><span>The Palace Theatre</span></div><div class="event-info"><p class="headline-6">Exclude Palace</p></div></div>'''
     got=parse_festival_hall_soup(BeautifulSoup(html,"html.parser"),{"name":"Festival Hall","url":"https://example.com"})
     assert [x["title"] for x in got] == ["Keep Me"]
+
+def test_offcut_requires_explicit_schedule_and_builds_thursdays():
+    source={"name":"The Nash / Offcut Bar","url":"https://www.offcutbar.com/sesh"}
+    got=parse_offcut_soup(BeautifulSoup("<main>Live Music Thursdays 7-9pm No Cover</main>","html.parser"),source)
+    assert got and all(datetime.fromisoformat(x["start"]).weekday()==3 for x in got)
+    assert all(datetime.fromisoformat(x["end"]).hour==21 for x in got)
+    assert parse_offcut_soup(BeautifulSoup("<main>No schedule posted</main>","html.parser"),source)==[]
+
+def test_night_market_extracts_every_date_and_inherits_month():
+    source={"name":"Inglewood Night Market","url":"https://www.inglewoodnightmarket.ca/"}
+    html="<main>May 8, June 12, July 10, August 14, September 4 and 11 2026, from 5pm to 10pm!</main>"
+    got=parse_night_market_soup(BeautifulSoup(html,"html.parser"),source)
+    assert len(got)==6
+    assert [x["start"][5:10] for x in got]==["05-08","06-12","07-10","08-14","09-04","09-11"]
+    assert all(x["start"][11:16]=="17:00" and x["end"][11:16]=="22:00" for x in got)
