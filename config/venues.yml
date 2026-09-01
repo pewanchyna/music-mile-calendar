@@ -36,7 +36,7 @@ venues:
     parser: ironwood
   - name: Inglewood Night Market
     url: https://www.inglewoodnightmarket.ca/
-    parser: generic
+    parser: night_market
   - name: Lantern Community Church
     url: https://www.lanternchurch.com/
     parser: generic
