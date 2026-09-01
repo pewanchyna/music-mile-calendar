@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:30:17.929694-06:00",
+  "generatedAt": "2026-09-01T10:41:59.210138-06:00",
   "events": [
     {
       "id": "c32859275caf6183",
@@ -25,6 +25,15 @@
       "url": "https://www.stagehand.app/events/22594",
       "description": "Hello Moth creates abstract synth-pop by night and ambient explosions by day, blending electronic tones with folk influences to create a sound somewhere between soil and sky. Exploring identity development, grief, and resilience, A.N. channels early 00s vibes while offering a fresh perspective on pop-rock — By Donation",
       "end": "2026-09-03T20:30:00-06:00"
+    },
+    {
+      "id": "ff500fbba65ad7d5",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-09-03T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-09-03T21:00:00-06:00"
     },
     {
       "id": "74ca2b3231359c43",
@@ -273,6 +282,15 @@
       "start": "2026-09-09T19:00:00-06:00",
       "url": "https://www.stagehand.app/events/22724",
       "description": "NO COVER"
+    },
+    {
+      "id": "72772aa62119f25c",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-09-10T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-09-10T21:00:00-06:00"
     },
     {
       "id": "c6d038450fa2866f",
@@ -544,6 +562,15 @@
       "description": "$40"
     },
     {
+      "id": "166503ebbeee383e",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-09-17T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-09-17T21:00:00-06:00"
+    },
+    {
       "id": "834b269ec955b81a",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
@@ -703,6 +730,15 @@
       "start": "2026-09-23T19:00:00-06:00",
       "url": "https://www.stagehand.app/events/23247",
       "description": "NO COVER"
+    },
+    {
+      "id": "9b714d37e8f3db35",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-09-24T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-09-24T21:00:00-06:00"
     },
     {
       "id": "263da65b129f15dc",
@@ -931,6 +967,15 @@
       "description": "In honour of the National Day for Truth and Reconciliation, join JUNO Award-winning Jeremy Dutcher for an evening of music that transcends boundaries."
     },
     {
+      "id": "8279e2377f4bb37b",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-10-01T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-10-01T21:00:00-06:00"
+    },
+    {
       "id": "9f6eeb2c350eb811",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
@@ -1135,6 +1180,15 @@
       "description": ""
     },
     {
+      "id": "733add9ad90219f7",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-10-08T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-10-08T21:00:00-06:00"
+    },
+    {
       "id": "a649a184bc9813f1",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
@@ -1231,6 +1285,15 @@
       "start": "2026-10-11T19:30:00-06:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "2a84a2522736e212",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-10-15T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-10-15T21:00:00-06:00"
     },
     {
       "id": "fabe5e13f26d6527",
@@ -1338,6 +1401,15 @@
       "end": "2026-10-20T21:00:00-06:00"
     },
     {
+      "id": "bf93d5a4f7f4e94d",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-10-22T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-10-22T21:00:00-06:00"
+    },
+    {
       "id": "a153eecccc2c5833",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
@@ -1376,6 +1448,15 @@
       "start": "2026-10-25T19:30:00-06:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "a50b9c5b19af1f92",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-10-29T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-10-29T21:00:00-06:00"
     },
     {
       "id": "92132763d28fe918",
@@ -1426,6 +1507,15 @@
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
+      "id": "b80e63ed8906de5e",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-11-05T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-11-05T21:00:00-06:00"
+    },
+    {
       "id": "62d00c0b2ce24398",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
@@ -1472,6 +1562,15 @@
       "start": "2026-11-12T18:00:00-06:00",
       "url": "https://www.studiobell.ca/whats-on/event/the-jazz-room-2026-11-12/",
       "description": "Welcome to The Jazz Room! Step into iconic venues, be swept away by world-class musicians, and rediscover timeless hits and legendary tributes."
+    },
+    {
+      "id": "36005aae56490e34",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-11-12T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-11-12T21:00:00-06:00"
     },
     {
       "id": "2692152157152ed3",
@@ -1531,6 +1630,15 @@
       "end": "2026-11-17T22:00:00-06:00"
     },
     {
+      "id": "f9db09f258989742",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-11-19T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-11-19T21:00:00-06:00"
+    },
+    {
       "id": "a1663d0f7022ce59",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
@@ -1569,6 +1677,15 @@
       "start": "2026-11-22T19:30:00-06:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "094d5d318fcc978d",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-11-26T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-11-26T21:00:00-06:00"
     },
     {
       "id": "8ad8f31ae93254b0",
@@ -1611,6 +1728,15 @@
       "description": "Venue: Festival Hall"
     },
     {
+      "id": "b7a60d67db510011",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-12-03T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-12-03T21:00:00-06:00"
+    },
+    {
       "id": "b93b895917d4bd42",
       "title": "Jazz & Soul at The Attic",
       "venue": "The Attic",
@@ -1649,6 +1775,15 @@
       "start": "2026-12-06T19:30:00-06:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "95d11192b1430998",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-12-10T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-12-10T21:00:00-06:00"
     },
     {
       "id": "7ee33a901db8b084",
@@ -1690,6 +1825,15 @@
       "url": "https://www.stagehand.app/events/23412",
       "description": "Canada's largest independent songwriter group...going strong since 2003! (Sponsored by Simply Socials, the Calgary Folk Club, Studio D, Tree Picks and the National Music Centre) We support both new and established songwriters in southern Alberta with workshops, resources, mentoring, opportunities to perform, and educational sessions on different aspects of the songwriting business. There are no membership fees and the sessions are open to all ages. — Free",
       "end": "2026-12-15T22:00:00-06:00"
+    },
+    {
+      "id": "d5ddf4663eca141a",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-12-17T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-12-17T21:00:00-06:00"
     },
     {
       "id": "0306553d9d9e648d",
@@ -1738,6 +1882,15 @@
       "start": "2026-12-20T20:30:00-06:00",
       "url": "https://www.studiobell.ca/whats-on/event/the-jazz-room-2026-12-20/",
       "description": "Welcome to The Jazz Room! Step into iconic venues, be swept away by world-class musicians, and rediscover timeless hits and legendary tributes."
+    },
+    {
+      "id": "9871d4c50bf0cf42",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2026-12-24T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2026-12-24T21:00:00-06:00"
     },
     {
       "id": "6576c1f5d86f1c1e",
@@ -1860,7 +2013,7 @@
     {
       "venue": "The Nash / Offcut Bar",
       "ok": true,
-      "events": 0,
+      "events": 17,
       "url": "https://www.offcutbar.com/sesh"
     },
     {
