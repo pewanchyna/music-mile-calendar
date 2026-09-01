@@ -1,0 +1,57 @@
+# Sources known to publish dated event listings. Add or change URLs here without
+# touching Python. The generic parser handles JSON-LD and common event-card HTML.
+venues:
+  - name: The Attic
+    url: https://www.theatticyyc.ca/events
+    parser: attic
+  - name: Central Library
+    url: https://www.calgarylibrary.ca/events-and-programs
+    parser: generic
+  - name: C-Square / East Village
+    url: https://www.evexperience.com/events
+    parser: generic
+  - name: The Eden
+    url: https://www.edenbistro.ca/
+    parser: generic
+  - name: Esker Foundation
+    url: https://eskerfoundation.com/
+    parser: generic
+  - name: Festival Hall
+    url: https://www.calgaryfolkfest.com/whats-on
+    parser: festival_hall
+  - name: Gravity Espresso & Wine Bar
+    url: https://www.gravitycoffeeroasters.com/
+    parser: gravity
+  - name: Hawthorn
+    url: https://www.hawthorndiningroom.ca/
+    parser: generic
+  - name: High Line Brewing
+    url: https://highlinebrewing.com/
+    parser: generic
+  - name: The Hose & Hound
+    url: https://www.thehose.ca/
+    parser: generic
+  - name: Ironwood Stage & Grill
+    url: https://ironwoodstage.ca/events/
+    parser: ironwood
+  - name: Inglewood Night Market
+    url: https://www.inglewoodnightmarket.ca/
+    parser: generic
+  - name: Lantern Community Church
+    url: https://www.lanternchurch.com/
+    parser: generic
+  - name: Music Pavilion / RiverWalk / St. Patrick's Island
+    url: https://www.evexperience.com/events
+    parser: generic
+  - name: Recordland
+    url: https://www.facebook.com/recordlandcalgary/
+    parser: generic
+  - name: The Nash / Offcut Bar
+    url: https://www.offcutbar.com/
+    parser: generic
+  - name: Studio Bell
+    url: https://www.studiobell.ca/whats-on
+    parser: studio_bell
+  - name: The King Eddy
+    url: https://kingeddy.ca/whats-on/
+    parser: king_eddy
