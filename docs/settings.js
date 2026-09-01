@@ -1,4 +1,3 @@
 window.CALENDAR_SETTINGS = {
-  // Paste the public responder link for your Google Form between the quotes.
-  submissionFormUrl: ""
+  submissionFormUrl: "PASTE_GOOGLE_FORM_RESPONDER_URL_HERE"
 };
