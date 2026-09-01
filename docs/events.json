@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T12:24:57.446036-06:00",
+  "generatedAt": "2026-09-01T12:31:03.974969-06:00",
   "events": [
     {
       "id": "c32859275caf6183",
@@ -16,6 +16,15 @@
       "start": "2026-09-02T19:00:00-06:00",
       "url": "https://www.stagehand.app/events/22721",
       "description": "NO COVER"
+    },
+    {
+      "id": "e794b501486bac42",
+      "title": "test1",
+      "venue": "my house",
+      "start": "2026-09-02T19:00:00-06:00",
+      "url": "https://www.test.com",
+      "description": "Community submission. a test",
+      "end": "2026-09-02T21:00:00-06:00"
     },
     {
       "id": "dd68224baf80f480",
@@ -2056,7 +2065,7 @@
     {
       "venue": "Community submissions",
       "ok": true,
-      "events": 0,
+      "events": 1,
       "url": "https://forms.gle/6K3d1zytLM64zMFg9"
     }
   ]
