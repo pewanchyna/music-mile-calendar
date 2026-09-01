@@ -39,6 +39,10 @@ def event(name, venue, start, url, description="", end=None):
 def parse_submissions_csv(csv_text, source_url):
     """Convert approved/exported Google Sheet rows into calendar events."""
     out=[]
+    def sheet_time(value):
+        # Google Sheets may render a time-only cell with its serial-date epoch.
+        match=re.search(r"(?:1899|1900).*?\b(\d{1,2}:\d{2}(?::\d{2})?)\b",value)
+        return match.group(1) if match else value
     for row in csv.DictReader(io.StringIO(csv_text.lstrip("\ufeff"))):
         values={clean(k).casefold():clean(v) for k,v in row.items() if k}
         def get(*names):
@@ -46,15 +50,16 @@ def parse_submissions_csv(csv_text, source_url):
         approved=get("Approved")
         if approved and approved.casefold() not in {"yes","approved","true","1"}: continue
         title=get("Event name","Title"); venue=get("Venue")
-        start_date=get("Start date"); start_time=get("Start time")
+        start_date=get("Start date"); start_time=sheet_time(get("Start time"))
         if not all((title,venue,start_date,start_time)): continue
         try:
             start=parse_local(start_date,start_time)
-            end_date=get("End date") or start_date; end_time=get("End time")
+            end_date=get("End date") or start_date; end_time=sheet_time(get("End time"))
             end=parse_local(end_date,end_time) if end_time else None
             if end and end<start: continue
         except (ValueError,OverflowError): continue
         url=get("Event URL","Event or ticket URL","URL")
+        if url.lower().startswith("www."): url="https://"+url
         if url and not re.match(r"^https?://",url,re.I): url=""
         description=get("Description")
         out.append(event(title,venue,start.isoformat(),url or source_url,
