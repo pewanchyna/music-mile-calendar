@@ -1,5 +1,2 @@
-# Paste the published CSV link for the approved-only "Calendar Export" sheet.
-csv_url: ""
-
-# Paste the public responder link for your Google Form.
-form_url: ""
+csv_url: "PASTE_PUBLISHED_CSV_URL_HERE"
+form_url: "PASTE_GOOGLE_FORM_RESPONDER_URL_HERE"
