@@ -1,303 +1,6 @@
 {
-  "generatedAt": "2026-10-19T13:20:22.938575-06:00",
+  "generatedAt": "2026-10-26T13:20:23.377060-06:00",
   "events": [
-    {
-      "id": "0f62fb90d56671d7",
-      "title": "Paeton Cameron House Band",
-      "venue": "The King Eddy",
-      "start": "2026-10-19T16:30:00-06:00",
-      "url": "https://kingeddy.ca/event/paeton-cameron-house-band-13/",
-      "description": "4:30 pm No cover"
-    },
-    {
-      "id": "6465177712d230c8",
-      "title": "Calgary Songsmith",
-      "venue": "Gravity Espresso & Wine Bar",
-      "start": "2026-10-20T19:00:00-06:00",
-      "url": "https://www.stagehand.app/events/23409",
-      "description": "Canada's largest independent songwriter group...going strong since 2003! (Sponsored by Simply Socials, the Calgary Folk Club, Studio D, Tree Picks and the National Music Centre) We support both new and established songwriters in southern Alberta with workshops, resources, mentoring, opportunities to perform, and educational sessions on different aspects of the songwriting business. There are no membership fees and the sessions are open to all ages. — Free",
-      "end": "2026-10-20T21:00:00-06:00"
-    },
-    {
-      "id": "985d81d5b2fc73b3",
-      "title": "Forever Young: Latin Percussion with Luis Tovar",
-      "venue": "Studio Bell",
-      "start": "2026-10-21T11:00:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/forever-young-latin-percussion-with-luis-tovar/",
-      "description": "Join us for a special edition of Forever Young: Seniors' Wednesdays and celebrate lifelong connections to music with interactive experiences for all ages."
-    },
-    {
-      "id": "3915fced01660b6d",
-      "title": "OPEN MIC",
-      "venue": "Ironwood Stage & Grill",
-      "start": "2026-10-21T19:00:00-06:00",
-      "url": "https://www.stagehand.app/events/23673",
-      "description": "NO COVER"
-    },
-    {
-      "id": "b6d41d54bc29732d",
-      "title": "Hockey Happy Hour",
-      "venue": "The King Eddy",
-      "start": "2026-10-22T14:00:00-06:00",
-      "url": "https://kingeddy.ca/event/hockey-happy-hour-69/",
-      "description": "2:00 pm No cover"
-    },
-    {
-      "id": "45259060d33fad03",
-      "title": "Devin Foster with Rosie Crisp and Teekay Othello",
-      "venue": "Gravity Espresso & Wine Bar",
-      "start": "2026-10-22T18:30:00-06:00",
-      "url": "https://www.stagehand.app/events/23856",
-      "description": "Artist of the Month Devin Foster is joined by Rosie Crisp and Teekay Othello for a night of storytelling and song. — By Donation",
-      "end": "2026-10-22T20:30:00-06:00"
-    },
-    {
-      "id": "bf93d5a4f7f4e94d",
-      "title": "Thursday Live Music",
-      "venue": "The Nash / Offcut Bar",
-      "start": "2026-10-22T19:00:00-06:00",
-      "url": "https://www.offcutbar.com/sesh",
-      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
-      "end": "2026-10-22T21:00:00-06:00"
-    },
-    {
-      "id": "a153eecccc2c5833",
-      "title": "Jazz & Soul at The Attic",
-      "venue": "The Attic",
-      "start": "2026-10-22T19:30:00-06:00",
-      "url": "https://www.theatticyyc.ca/events",
-      "description": "Recurring series published by The Attic; confirm details before attending."
-    },
-    {
-      "id": "96b5261b82f32f15",
-      "title": "Jenny Orenstein and Mike Plume",
-      "venue": "The King Eddy",
-      "start": "2026-10-22T19:30:00-06:00",
-      "url": "https://kingeddy.ca/event/jenny-orenstein-and-mike-plume/",
-      "description": "7:30 pm $30"
-    },
-    {
-      "id": "9839084b22e54ee2",
-      "title": "BRENT TYLER & JOSHUA SMITH",
-      "venue": "Ironwood Stage & Grill",
-      "start": "2026-10-22T20:00:00-06:00",
-      "url": "https://www.stagehand.app/events/23674",
-      "description": "$30"
-    },
-    {
-      "id": "70f91206e28f98aa",
-      "title": "CKUA FALL FUNDRAISER with Lisa Wilton & \"Traffic Jams\"",
-      "venue": "Ironwood Stage & Grill",
-      "start": "2026-10-23T14:00:00-06:00",
-      "url": "https://www.stagehand.app/events/23675",
-      "description": "",
-      "end": "2026-10-23T18:00:00-06:00"
-    },
-    {
-      "id": "122a437ddd213f0c",
-      "title": "Happy Hour with Sonia Deleo",
-      "venue": "The King Eddy",
-      "start": "2026-10-23T16:30:00-06:00",
-      "url": "https://kingeddy.ca/event/happy-hour-with-sonia-deleo/",
-      "description": "4:30 pm No cover"
-    },
-    {
-      "id": "5260d95a174a7c4d",
-      "title": "Laurie Kerr and Toni Vere",
-      "venue": "Gravity Espresso & Wine Bar",
-      "start": "2026-10-23T18:30:00-06:00",
-      "url": "https://www.stagehand.app/events/23512",
-      "description": "Laurie Kerr spent 19 years in Nashville honing her craft as a performing songwriter. Known for her soulful delivery and seasoned stage persona, Laurie’s songs tend to say something deeper about life. Musical influences such as Bonnie Raitt, Sheryl Crow, and Brandi Carlile helped to shape her writing and eclectic brand of Americana. Rooted in folk, rock, and the grit of lived experience, Toni Vere is a singer-songwriter who writes like she’s got nothing left to prove and plenty left to say. Playi",
-      "end": "2026-10-23T20:30:00-06:00"
-    },
-    {
-      "id": "6e7f4ef873f523f1",
-      "title": "JK & the RELAYS",
-      "venue": "Ironwood Stage & Grill",
-      "start": "2026-10-23T20:00:00-06:00",
-      "url": "https://www.stagehand.app/events/23676",
-      "description": "$25"
-    },
-    {
-      "id": "11b64de59c8b9780",
-      "title": "Kids' Bouchercon 2026",
-      "venue": "Central Library",
-      "start": "2026-10-24T10:00:00-06:00",
-      "url": "https://libraryfoundation.ca/event/locked-library-sept-18/.",
-      "description": "Kids' Bouchercon 2026 Central Library | October 24 | 10:00 am Calling all young detectives, mystery lovers, and aspiring writers! This mystery convention is packed with interactive activities, author presentations, literary adventures, and more. Register Here"
-    },
-    {
-      "id": "6832bd6ffa3ccf16",
-      "title": "NMC Tours: Greatest Hits",
-      "venue": "Studio Bell",
-      "start": "2026-10-24T11:00:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/nmc-tours-greatest-hits-2026-13/",
-      "description": "Dive into the world of music technology and explore unique instruments from the National Music Centre’s world-renowned collection."
-    },
-    {
-      "id": "12a8447005a0932d",
-      "title": "PlayLab: Circuit Jam",
-      "venue": "Studio Bell",
-      "start": "2026-10-24T11:30:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/playlab-circuit-jam-2026/",
-      "description": "Join us in PlayLab and make music by building circuits and experimenting with synthesizers.",
-      "end": "2026-10-24T14:30:00-06:00"
-    },
-    {
-      "id": "3cb6337e248b4b0d",
-      "title": "Acoustic Afternoons with Mya Kate",
-      "venue": "The King Eddy",
-      "start": "2026-10-24T11:30:00-06:00",
-      "url": "https://kingeddy.ca/event/acoustic-afternoons-with-mya-kate/",
-      "description": "11:30 am No cover"
-    },
-    {
-      "id": "29942f0129cffda0",
-      "title": "NMC Tours: Backstage Pass",
-      "venue": "Studio Bell",
-      "start": "2026-10-24T12:00:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/nmc-tours-backstage-pass-2026-15/",
-      "description": "Take an exclusive tour backstage at Studio Bell and see music come to life in the National Music Centre’s recording studios!"
-    },
-    {
-      "id": "4f0cd0f8d20f47ef",
-      "title": "NMC Tours: Backstage Pass",
-      "venue": "Studio Bell",
-      "start": "2026-10-24T13:30:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/nmc-tours-backstage-pass-2026-15/",
-      "description": "Take an exclusive tour backstage at Studio Bell and see music come to life in the National Music Centre’s recording studios!"
-    },
-    {
-      "id": "930edc659a378c4a",
-      "title": "NINTH AVENUE BIG BAND",
-      "venue": "Ironwood Stage & Grill",
-      "start": "2026-10-24T14:00:00-06:00",
-      "url": "https://www.stagehand.app/events/23677",
-      "description": "$35 ADULTS/$17 STUDENTS",
-      "end": "2026-10-24T16:00:00-06:00"
-    },
-    {
-      "id": "52326a172f87d443",
-      "title": "Hockey Happy Hour",
-      "venue": "The King Eddy",
-      "start": "2026-10-24T14:00:00-06:00",
-      "url": "https://kingeddy.ca/event/hockey-happy-hour-70/",
-      "description": "2:00 pm No cover"
-    },
-    {
-      "id": "589003e627ce8356",
-      "title": "NMC Tours: Greatest Hits",
-      "venue": "Studio Bell",
-      "start": "2026-10-24T14:30:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/nmc-tours-greatest-hits-2026-13/",
-      "description": "Dive into the world of music technology and explore unique instruments from the National Music Centre’s world-renowned collection."
-    },
-    {
-      "id": "47f24354f0222457",
-      "title": "Devin Foster",
-      "venue": "Gravity Espresso & Wine Bar",
-      "start": "2026-10-24T18:30:00-06:00",
-      "url": "https://www.stagehand.app/events/23849",
-      "description": "Devin Foster creates acoustic driven music rooted in honest, emotionally focused songwriting, drawing from real-life experiences and a passion for mental health awareness. Influenced by Bon Iver, Matt Maeson, and Mt. Joy, his music balances themes of struggle and hope, creating a sound that feels raw and reflective. — $10",
-      "end": "2026-10-24T20:30:00-06:00"
-    },
-    {
-      "id": "69711fe037f061d7",
-      "title": "Carly's Angels Drag Show",
-      "venue": "The Attic",
-      "start": "2026-10-24T20:00:00-06:00",
-      "url": "https://www.theatticyyc.ca/events",
-      "description": "Recurring series published by The Attic; confirm details before attending."
-    },
-    {
-      "id": "62e086619abd1716",
-      "title": "PETER TOSH TRIBUTE WITH SPECIAL GUESTS!",
-      "venue": "Ironwood Stage & Grill",
-      "start": "2026-10-24T21:00:00-06:00",
-      "url": "https://www.stagehand.app/events/23788",
-      "description": "$30"
-    },
-    {
-      "id": "95f57b8e7169d95a",
-      "title": "Synth Soundbath: Buchla 200",
-      "venue": "Studio Bell",
-      "start": "2026-10-25T11:00:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/synth-soundbath-buchla-200/",
-      "description": "Join us for Synth Soundbath, a new monthly series exploring the intersection of wellness and music technology."
-    },
-    {
-      "id": "c5948d3e2ee4c835",
-      "title": "NMC Tours: Greatest Hits",
-      "venue": "Studio Bell",
-      "start": "2026-10-25T11:00:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/nmc-tours-greatest-hits-2026-14/",
-      "description": "Dive into the world of music technology and explore unique instruments from the National Music Centre’s world-renowned collection."
-    },
-    {
-      "id": "a00bd3a79a58480b",
-      "title": "Songsmith Sundays with Carter Felker",
-      "venue": "The King Eddy",
-      "start": "2026-10-25T11:30:00-06:00",
-      "url": "https://kingeddy.ca/event/songsmith-sundays-with-carter-felker-223/",
-      "description": "11:30 am No cover"
-    },
-    {
-      "id": "5fcfbd4ff0996088",
-      "title": "NMC Tours: Backstage Pass",
-      "venue": "Studio Bell",
-      "start": "2026-10-25T12:00:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/nmc-tours-backstage-pass-2026-16/",
-      "description": "Take an exclusive tour backstage at Studio Bell and see music come to life in the National Music Centre’s recording studios!"
-    },
-    {
-      "id": "1560f069f622ab07",
-      "title": "NMC Tours: Backstage Pass",
-      "venue": "Studio Bell",
-      "start": "2026-10-25T13:30:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/nmc-tours-backstage-pass-2026-16/",
-      "description": "Take an exclusive tour backstage at Studio Bell and see music come to life in the National Music Centre’s recording studios!"
-    },
-    {
-      "id": "e6ff3fb331fb9f88",
-      "title": "Sunday Jazz Jam",
-      "venue": "Gravity Espresso & Wine Bar",
-      "start": "2026-10-25T14:00:00-06:00",
-      "url": "https://www.stagehand.app/events/23853",
-      "description": "Local jazz musicians - John McRory and Brian Niblock invite special guests and host this weekly jazz jam. — By Donation tips gratefully accepted",
-      "end": "2026-10-25T16:30:00-06:00"
-    },
-    {
-      "id": "21eeadd1857b4809",
-      "title": "BLUE GOSPEL",
-      "venue": "Ironwood Stage & Grill",
-      "start": "2026-10-25T14:00:00-06:00",
-      "url": "https://www.stagehand.app/events/23790",
-      "description": ""
-    },
-    {
-      "id": "805807bee32c12e2",
-      "title": "NMC Tours: Greatest Hits",
-      "venue": "Studio Bell",
-      "start": "2026-10-25T14:30:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/nmc-tours-greatest-hits-2026-14/",
-      "description": "Dive into the world of music technology and explore unique instruments from the National Music Centre’s world-renowned collection."
-    },
-    {
-      "id": "9af8c625d064935b",
-      "title": "GREG McRITCHIE",
-      "venue": "Ironwood Stage & Grill",
-      "start": "2026-10-25T19:00:00-06:00",
-      "url": "https://www.stagehand.app/events/23679",
-      "description": "$15"
-    },
-    {
-      "id": "05080317794b66c3",
-      "title": "Laugh Loft Stand-Up Comedy",
-      "venue": "The Attic",
-      "start": "2026-10-25T19:30:00-06:00",
-      "url": "https://www.theatticyyc.ca/events",
-      "description": "Recurring series published by The Attic; confirm details before attending."
-    },
     {
       "id": "823c928eda00c86f",
       "title": "Danny Schwartz",
@@ -338,7 +41,7 @@
       "venue": "Gravity Espresso & Wine Bar",
       "start": "2026-10-29T18:30:00-06:00",
       "url": "https://www.stagehand.app/events/23994",
-      "description": "By Donation tips gratefully accepted",
+      "description": "NOAH. is an Aussie indie-folk singer-songwriter living between Melbourne and Calgary. Shaped by three years of travel through Canada and beyond, his songs find softness in messy places, exploring desire, disconnection, identity and longing to be understood. Following a debut EP and several singles, he is sharing his new music. — By Donation tips gratefully accepted",
       "end": "2026-10-29T20:30:00-06:00"
     },
     {
@@ -375,6 +78,15 @@
       "description": "$30"
     },
     {
+      "id": "537aba98fccdcbcb",
+      "title": "Herky Cutler",
+      "venue": "Gravity Espresso & Wine Bar",
+      "start": "2026-10-30T18:30:00-06:00",
+      "url": "https://www.stagehand.app/events/24004",
+      "description": "\"High energy solo singer/songwriter/cover artist. An eclectic mix of sound and and musical tastes coupled with audience participation\" — By Donation tips gratefully accepted",
+      "end": "2026-10-30T20:30:00-06:00"
+    },
+    {
       "id": "04db6c40664df1b5",
       "title": "Leopard Lounge Sketch Comedy",
       "venue": "The Attic",
@@ -383,12 +95,45 @@
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
+      "id": "e2a3020e2605b992",
+      "title": "Mayor's Halloween Storytime: A Celebration of Día de los Muertos",
+      "venue": "Central Library",
+      "start": "2026-10-31T10:00:00-06:00",
+      "url": "https://www.calgarylibrary.ca/events-and-programs",
+      "description": "Mayor's Halloween Storytime: A Celebration of Día de los Muertos Central Library | Saturday, October 31 | 10:00 am Join Mayor Jeromy Farkas and our Children’s Librarian for a special family storytime celebrating Día de los Muertos. Enjoy stories, crafts, treats, and a beautiful altar honouring this vibrant Mexican tradition."
+    },
+    {
+      "id": "9d89b2141bc7881e",
+      "title": "Looking for Programs?",
+      "venue": "Central Library",
+      "start": "2026-10-31T10:00:00-06:00",
+      "url": "https://www.calgarylibrary.ca/events-and-programs",
+      "description": "Events Learn something new, improve a skill, and connect with the community at Library events across the city. Events & Programs / Events / Something Is Always Happening at the Library Discover a wide range of engaging events for all ages. Learn about space or ancient history, drop in for live theatre and musical performances, learn about different dances performed at a powwow, enjoy a storytime , and so much more. Mayor's Halloween Storytime: A Celebration of Día de los Muertos Central Library "
+    },
+    {
       "id": "51d7e943080b34c7",
       "title": "NMC Tours: Greatest Hits",
       "venue": "Studio Bell",
       "start": "2026-10-31T11:00:00-06:00",
       "url": "https://www.studiobell.ca/whats-on/event/nmc-tours-greatest-hits-2026-15/",
       "description": "Dive into the world of music technology and explore unique instruments from the National Music Centre’s world-renowned collection."
+    },
+    {
+      "id": "ca48b39aa20d587f",
+      "title": "PlayLab: Halloween Foley Fun",
+      "venue": "Studio Bell",
+      "start": "2026-10-31T11:30:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/playlab-halloween-foley-fun/",
+      "description": "Join us on Halloween to step behind the scenes of sound and discover how everyday objects can become extraordinary sound effects!",
+      "end": "2026-10-31T14:30:00-06:00"
+    },
+    {
+      "id": "082d0f2fabb96196",
+      "title": "Kimball Theatre Organ: Haunting Halloween Demonstrations",
+      "venue": "Studio Bell",
+      "start": "2026-10-31T11:30:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/",
+      "description": "Hear the ghoulish and ghastly sounds of the 1924 Kimball theatre organ, reanimated to accompany clips from classic silent horror films and cartoons in celebration of Halloween."
     },
     {
       "id": "80c5876bad7eb155",
@@ -405,6 +150,14 @@
       "start": "2026-10-31T12:00:00-06:00",
       "url": "https://www.studiobell.ca/whats-on/event/nmc-tours-backstage-pass-2026-17/",
       "description": "Take an exclusive tour backstage at Studio Bell and see music come to life in the National Music Centre’s recording studios!"
+    },
+    {
+      "id": "4e997057a99870fa",
+      "title": "Kimball Theatre Organ: Haunting Halloween Demonstrations",
+      "venue": "Studio Bell",
+      "start": "2026-10-31T13:00:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/",
+      "description": "Hear the ghoulish and ghastly sounds of the 1924 Kimball theatre organ, reanimated to accompany clips from classic silent horror films and cartoons in celebration of Halloween."
     },
     {
       "id": "2561b762b817ca0b",
@@ -424,12 +177,28 @@
       "end": "2026-10-31T16:00:00-06:00"
     },
     {
+      "id": "26ea54be3f3ecd1e",
+      "title": "Kimball Theatre Organ: Haunting Halloween Demonstrations",
+      "venue": "Studio Bell",
+      "start": "2026-10-31T14:00:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/",
+      "description": "Hear the ghoulish and ghastly sounds of the 1924 Kimball theatre organ, reanimated to accompany clips from classic silent horror films and cartoons in celebration of Halloween."
+    },
+    {
       "id": "2207f28fbd5e8ef9",
       "title": "NMC Tours: Greatest Hits",
       "venue": "Studio Bell",
       "start": "2026-10-31T14:30:00-06:00",
       "url": "https://www.studiobell.ca/whats-on/event/nmc-tours-greatest-hits-2026-15/",
       "description": "Dive into the world of music technology and explore unique instruments from the National Music Centre’s world-renowned collection."
+    },
+    {
+      "id": "f1121ab1bb4629ba",
+      "title": "Kimball Theatre Organ: Haunting Halloween Demonstrations",
+      "venue": "Studio Bell",
+      "start": "2026-10-31T15:00:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/halloween-kimball-theatre-organ-demonstrations/",
+      "description": "Hear the ghoulish and ghastly sounds of the 1924 Kimball theatre organ, reanimated to accompany clips from classic silent horror films and cartoons in celebration of Halloween."
     },
     {
       "id": "6ea13d5c6cc0b160",
@@ -454,6 +223,14 @@
       "start": "2026-10-31T20:30:00-06:00",
       "url": "https://kingeddy.ca/event/peach-panic-halloween-2026/",
       "description": "8:30 pm $15 in advance or $25 at the door"
+    },
+    {
+      "id": "6ba8304133cb67cc",
+      "title": "Songsmith Sundays with Carter Felker",
+      "venue": "The King Eddy",
+      "start": "2026-11-01T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/songsmith-sundays-with-carter-felker-224/",
+      "description": "11:30 am No cover"
     },
     {
       "id": "46207d5e69f656b3",
@@ -489,6 +266,14 @@
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
+      "id": "d7a3d8548fbacf2d",
+      "title": "Paeton Cameron House Band",
+      "venue": "The King Eddy",
+      "start": "2026-11-02T16:30:00-06:00",
+      "url": "https://kingeddy.ca/event/paeton-cameron-house-band-14/",
+      "description": "4:30 pm No cover"
+    },
+    {
       "id": "78a0938987541370",
       "title": "Epilogue Society Webinar: Will-Making 101 – What Every Canadian Should Know",
       "venue": "Central Library",
@@ -497,20 +282,20 @@
       "description": "Epilogue Society Webinar: Will-Making 101 – What Every Canadian Should Know Online | November 3 | 12:00 pm Join Calgary Public Library Foundation for a webinar to explore k ey decisions you’ll make when creating your will, with lawyers and estate experts Shannon James and Paul Reid. In honour of Make A Will Month, our guest speakers will break down the essentials of wills in plain language. We’ll cover what a will is, why every adult needs one, and how having a valid will protects your family, y"
     },
     {
+      "id": "c0e35a8a7f0f4a88",
+      "title": "JazzYYC & NMC Present: Dawn Pemberton — Portraits of the First Ladies of Jazz",
+      "venue": "Studio Bell",
+      "start": "2026-11-03T19:30:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/jazzyyc-nmc-present-dawn-pemberton-portraits-of-the-first-ladies-of-jazz/",
+      "description": "Acclaimed Canadian vocalist Dawn Pemberton celebrates the women who helped shape the jazz vocal tradition in Portraits of the First Ladies of Jazz."
+    },
+    {
       "id": "825fd258b5708676",
       "title": "AMBROSE JAZZ ENSEMBLE",
       "venue": "Ironwood Stage & Grill",
       "start": "2026-11-03T20:00:00-06:00",
       "url": "https://www.stagehand.app/events/23686",
       "description": "$15"
-    },
-    {
-      "id": "b59395cadce9f16e",
-      "title": "JazzYYC & NMC Present: Dawn Pemberton — Portraits of the First Ladies of Jazz",
-      "venue": "Studio Bell",
-      "start": "2026-11-03T20:00:00-06:00",
-      "url": "https://www.studiobell.ca/whats-on/event/jazzyyc-nmc-present-dawn-pemberton-portraits-of-the-first-ladies-of-jazz/",
-      "description": "Acclaimed Canadian vocalist Dawn Pemberton celebrates the women who helped shape the jazz vocal tradition in Portraits of the First Ladies of Jazz."
     },
     {
       "id": "4cf555ad458b6077",
@@ -554,6 +339,22 @@
       "description": ""
     },
     {
+      "id": "6449b9fb038d99d0",
+      "title": "Hockey Happy Hour",
+      "venue": "The King Eddy",
+      "start": "2026-11-06T14:00:00-06:00",
+      "url": "https://kingeddy.ca/event/hockey-happy-hour-71/",
+      "description": "2:00 pm No cover"
+    },
+    {
+      "id": "fd4339dfea734d49",
+      "title": "Happy Hour with Tera Lee",
+      "venue": "The King Eddy",
+      "start": "2026-11-06T16:30:00-06:00",
+      "url": "https://kingeddy.ca/event/happy-hour-with-tera-lee-3/",
+      "description": "4:30 pm No cover"
+    },
+    {
       "id": "7ddeda020cb48719",
       "title": "NMC Presents: Six String Nation Guitar Celebrates the Great Canadian Songbook",
       "venue": "Studio Bell",
@@ -576,6 +377,14 @@
       "start": "2026-11-06T21:00:00-06:00",
       "url": "https://www.stagehand.app/events/23689",
       "description": ""
+    },
+    {
+      "id": "480bdf776a394d2b",
+      "title": "Pop Brunch with Elle McAndrews",
+      "venue": "The King Eddy",
+      "start": "2026-11-07T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/pop-brunch-with-elle-mcandrews-5/",
+      "description": "11:30 am No cover"
     },
     {
       "id": "6f9a2cb3fa287751",
@@ -602,12 +411,28 @@
       "description": ""
     },
     {
+      "id": "e20a87b9f4951dbe",
+      "title": "Songsmith Sundays with Carter Felker",
+      "venue": "The King Eddy",
+      "start": "2026-11-08T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/songsmith-sundays-with-carter-felker-225/",
+      "description": "11:30 am No cover"
+    },
+    {
       "id": "faf89ecf65a3d783",
       "title": "StoryMusic, Green Fools Theatre & NMC Present: Little Red Riding Hood with Beethoven",
       "venue": "Studio Bell",
       "start": "2026-11-08T13:00:00-06:00",
       "url": "https://www.studiobell.ca/whats-on/event/storymusic-green-fools-theatre-and-nmc-present-little-red-riding-hood-with-beethoven/",
       "description": "NMC, StoryMusic, and Green Fools Theatre team up to present Little Red Riding Hood with Beethoven—a one-of-a-kind storytelling concert with live music and puppetry!"
+    },
+    {
+      "id": "274f84ed68e09fe0",
+      "title": "Hockey Happy Hour",
+      "venue": "The King Eddy",
+      "start": "2026-11-08T14:00:00-06:00",
+      "url": "https://kingeddy.ca/event/hockey-happy-hour-72/",
+      "description": "2:00 pm No cover"
     },
     {
       "id": "935b2ce3ee41eeb5",
@@ -634,6 +459,14 @@
       "description": ""
     },
     {
+      "id": "4745af0158ad3eca",
+      "title": "Paeton Cameron House Band",
+      "venue": "The King Eddy",
+      "start": "2026-11-09T16:30:00-06:00",
+      "url": "https://kingeddy.ca/event/paeton-cameron-house-band-15/",
+      "description": "4:30 pm No cover"
+    },
+    {
       "id": "0486302a7964fa9f",
       "title": "Sarah Ruth",
       "venue": "Gravity Espresso & Wine Bar",
@@ -641,6 +474,23 @@
       "url": "https://www.stagehand.app/events/23429",
       "description": "By Donation tips gratefully accepted",
       "end": "2026-11-10T21:30:00-06:00"
+    },
+    {
+      "id": "ef28440edfc69698",
+      "title": "Remembrance Day at Studio Bell",
+      "venue": "Studio Bell",
+      "start": "2026-11-11T10:00:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/remembrance-day-at-studio-bell-2026/",
+      "description": "On November 11, observe Remembrance Day at Studio Bell, home of the National Music Centre.",
+      "end": "2026-11-11T17:00:00-06:00"
+    },
+    {
+      "id": "68da1945bad8cadd",
+      "title": "Hockey Happy Hour",
+      "venue": "The King Eddy",
+      "start": "2026-11-11T14:00:00-06:00",
+      "url": "https://kingeddy.ca/event/hockey-happy-hour-73/",
+      "description": "2:00 pm No cover"
     },
     {
       "id": "6ad69fc6d775a571",
@@ -692,6 +542,14 @@
       "url": "https://www.stagehand.app/events/23669",
       "description": "Stereo 9 is an alternative-fusion rock band formed in Calgary in 2026 by frontman Caleb Alerta and lead guitarist Andrew Sprenger, mixing authentic blends of intricacy and melody. Joined by drummer, Kaleb Favell, and Bassist, Jakob Puedivan, Stereo 9 will play hard-hitting originals and covers. — By Donation tips gratefully accepted",
       "end": "2026-11-12T21:30:00-06:00"
+    },
+    {
+      "id": "c88e5c62ce6df32f",
+      "title": "Eden Taylor",
+      "venue": "The King Eddy",
+      "start": "2026-11-12T19:30:00-06:00",
+      "url": "https://kingeddy.ca/event/eden-taylor/",
+      "description": "7:30 pm $10 cover"
     },
     {
       "id": "83b86ccfbbaf7078",
@@ -750,6 +608,14 @@
       "description": "Join us for Synth Soundbath, a new monthly series exploring the intersection of wellness and music technology."
     },
     {
+      "id": "2eff64f68a31a774",
+      "title": "Acoustic Afternoons with Keira Myer",
+      "venue": "The King Eddy",
+      "start": "2026-11-14T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/acoustic-afternoons-with-keira-myer/",
+      "description": "11:30 am No cover"
+    },
+    {
       "id": "2fc54066f12370e0",
       "title": "FOX BIG BAND",
       "venue": "Ironwood Stage & Grill",
@@ -782,6 +648,14 @@
       "start": "2026-11-14T21:00:00-06:00",
       "url": "https://www.stagehand.app/events/23695",
       "description": ""
+    },
+    {
+      "id": "33da43e4d488d308",
+      "title": "Songsmith Sundays with Carter Felker",
+      "venue": "The King Eddy",
+      "start": "2026-11-15T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/songsmith-sundays-with-carter-felker-226/",
+      "description": "11:30 am No cover"
     },
     {
       "id": "2b6108fcb6e98add",
@@ -817,6 +691,14 @@
       "description": ""
     },
     {
+      "id": "0a698ed23b84a0a9",
+      "title": "Paeton Cameron House Band",
+      "venue": "The King Eddy",
+      "start": "2026-11-16T16:30:00-06:00",
+      "url": "https://kingeddy.ca/event/paeton-cameron-house-band-16/",
+      "description": "4:30 pm No cover"
+    },
+    {
       "id": "ad88b044e9748cb0",
       "title": "Calgary Songsmith",
       "venue": "Gravity Espresso & Wine Bar",
@@ -832,6 +714,14 @@
       "start": "2026-11-18T20:00:00-06:00",
       "url": "https://www.stagehand.app/events/23698",
       "description": "NO COVER"
+    },
+    {
+      "id": "c8fb4f265f859fab",
+      "title": "Hockey Happy Hour",
+      "venue": "The King Eddy",
+      "start": "2026-11-19T14:00:00-06:00",
+      "url": "https://kingeddy.ca/event/hockey-happy-hour-74/",
+      "description": "2:00 pm No cover"
     },
     {
       "id": "f9db09f258989742",
@@ -860,12 +750,28 @@
       "end": "2026-11-19T21:30:00-06:00"
     },
     {
-      "id": "fc1bf4dadb49dffc",
-      "title": "BLUE ROCK JUCTION CD Release",
+      "id": "22239a99bd73ca40",
+      "title": "Mallory Chipman and Madi Allen",
+      "venue": "The King Eddy",
+      "start": "2026-11-19T19:30:00-06:00",
+      "url": "https://kingeddy.ca/event/mallory-chipman-and-madi-allen/",
+      "description": "7:30 pm $20 in advance or $25 at the door"
+    },
+    {
+      "id": "ea24661755e41b74",
+      "title": "BLUE ROCK JUCTION",
       "venue": "Ironwood Stage & Grill",
       "start": "2026-11-19T21:00:00-06:00",
       "url": "https://www.stagehand.app/events/23699",
       "description": "$20"
+    },
+    {
+      "id": "b0df57671444f057",
+      "title": "Canada Bridges & NMC Present: A Youth Explosion 2026 — Featuring LOV",
+      "venue": "Studio Bell",
+      "start": "2026-11-20T18:30:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/canada-bridges-nmc-present-aye-a-youth-explosion/",
+      "description": "A Youth Explosion is a gathering created by Indigenous youth and young adults, bringing together community, culture, creativity, connection and opportunity."
     },
     {
       "id": "0c362f85d4d8c738",
@@ -891,6 +797,14 @@
       "start": "2026-11-20T21:00:00-06:00",
       "url": "https://www.stagehand.app/events/23700",
       "description": "$50"
+    },
+    {
+      "id": "2e1ab99094d983c2",
+      "title": "Hockey Happy Hour",
+      "venue": "The King Eddy",
+      "start": "2026-11-21T14:00:00-06:00",
+      "url": "https://kingeddy.ca/event/hockey-happy-hour-75/",
+      "description": "2:00 pm No cover"
     },
     {
       "id": "dfe6f2f6ac7c3b88",
@@ -935,6 +849,14 @@
       "description": "$50"
     },
     {
+      "id": "deca1fa852f7cfd8",
+      "title": "Songsmith Sundays with Carter Felker",
+      "venue": "The King Eddy",
+      "start": "2026-11-22T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/songsmith-sundays-with-carter-felker-227/",
+      "description": "11:30 am No cover"
+    },
+    {
       "id": "d0563310ad13a240",
       "title": "NMC Presents: The Barra MacNeils — An East Coast Christmas (SOLD OUT)",
       "venue": "Studio Bell",
@@ -966,6 +888,14 @@
       "start": "2026-11-22T20:00:00-06:00",
       "url": "https://www.stagehand.app/events/23704",
       "description": "$25"
+    },
+    {
+      "id": "7d20681a1f2bec5c",
+      "title": "Paeton Cameron House Band",
+      "venue": "The King Eddy",
+      "start": "2026-11-23T16:30:00-06:00",
+      "url": "https://kingeddy.ca/event/paeton-cameron-house-band-17/",
+      "description": "4:30 pm No cover"
     },
     {
       "id": "c810aec4bf36ab75",
@@ -1027,6 +957,14 @@
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
+      "id": "a2a6359a1706bbd6",
+      "title": "Acoustic Afternoons with Julia Vos",
+      "venue": "The King Eddy",
+      "start": "2026-11-28T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/acoustic-afternoons-with-julia-vos-4/",
+      "description": "11:30 am No cover"
+    },
+    {
       "id": "da334161784a4705",
       "title": "NINTH AVENUE BIG BAND",
       "venue": "Ironwood Stage & Grill",
@@ -1053,6 +991,22 @@
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
+      "id": "5f85b28054ad8469",
+      "title": "Songsmith Sundays with Carter Felker",
+      "venue": "The King Eddy",
+      "start": "2026-11-29T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/songsmith-sundays-with-carter-felker-228/",
+      "description": "11:30 am No cover"
+    },
+    {
+      "id": "27dc3b2e362324cc",
+      "title": "Candlelight Jazz: The Best of Frank Sinatra & Nat King Cole ft. Barry Shaw",
+      "venue": "Studio Bell",
+      "start": "2026-11-29T18:30:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/candlelight-2026-11-29/",
+      "description": "Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations."
+    },
+    {
       "id": "1f12e428b2e475a0",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
@@ -1069,20 +1023,36 @@
       "description": ""
     },
     {
-      "id": "cce055c6b815542d",
+      "id": "b20c8cc02a682dbb",
+      "title": "Candlelight Jazz: The Best of Frank Sinatra & Nat King Cole ft. Barry Shaw",
+      "venue": "Studio Bell",
+      "start": "2026-11-29T20:30:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/candlelight-2026-11-29/",
+      "description": "Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations."
+    },
+    {
+      "id": "bbd7aae64e774b41",
+      "title": "Paeton Cameron House Band",
+      "venue": "The King Eddy",
+      "start": "2026-11-30T16:30:00-06:00",
+      "url": "https://kingeddy.ca/event/paeton-cameron-house-band-18/",
+      "description": "4:30 pm No cover"
+    },
+    {
+      "id": "a1e2412652dfe829",
       "title": "AE West Artist Extravaganza Showcase",
       "venue": "Studio Bell",
-      "start": "2026-12-02T20:00:00-06:00",
+      "start": "2026-12-02T19:00:00-06:00",
       "url": "https://www.studiobell.ca/whats-on/event/ae-west-artist-extravaganza-showcase-2026/",
       "description": "Canada’s Music Incubator (CMI) and the National Music Centre (NMC) present the 2026 AE West Artist Extravaganza Showcase, a free live concert at the King Eddy on December 2."
     },
     {
-      "id": "a4149ad6d7bca8dc",
+      "id": "c7c6c6dc03abdfb6",
       "title": "AE West Artist Extravaganza Showcase",
       "venue": "The King Eddy",
-      "start": "2026-12-02T20:00:00-06:00",
+      "start": "2026-12-02T19:00:00-06:00",
       "url": "https://kingeddy.ca/event/ae-west-artist-extravaganza-showcase-2026/",
-      "description": "8:00 pm No cover"
+      "description": "7:00 pm No cover"
     },
     {
       "id": "46267613774c4d05",
@@ -1110,12 +1080,28 @@
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
+      "id": "99d8448ed4e74835",
+      "title": "Acoustic Afternoons with Dempsey Bolton",
+      "venue": "The King Eddy",
+      "start": "2026-12-05T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/acoustic-afternoons-with-dempsey-bolton-9/",
+      "description": "11:30 am No cover"
+    },
+    {
       "id": "99d45aa9430bee08",
       "title": "Carly's Angels Drag Show",
       "venue": "The Attic",
       "start": "2026-12-05T20:00:00-06:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "af0bd71f4823f54e",
+      "title": "Songsmith Sundays with Carter Felker",
+      "venue": "The King Eddy",
+      "start": "2026-12-06T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/songsmith-sundays-with-carter-felker-229/",
+      "description": "11:30 am No cover"
     },
     {
       "id": "5126968a36248fa1",
@@ -1191,6 +1177,14 @@
       "description": "$40"
     },
     {
+      "id": "62c766f81e50a0b6",
+      "title": "Songsmith Sundays with Carter Felker",
+      "venue": "The King Eddy",
+      "start": "2026-12-13T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/songsmith-sundays-with-carter-felker-230/",
+      "description": "11:30 am No cover"
+    },
+    {
       "id": "a947f31ac7904537",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
@@ -1239,6 +1233,22 @@
       "start": "2026-12-17T19:30:00-06:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "3a62c00a85775a22",
+      "title": "The Jazz Room: Journey to the Heart of Cuba",
+      "venue": "Studio Bell",
+      "start": "2026-12-18T18:00:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/the-jazz-room-2026-12-18/",
+      "description": "Welcome to The Jazz Room! Step into iconic venues, be swept away by world-class musicians, and rediscover timeless hits and legendary tributes."
+    },
+    {
+      "id": "fabf19f19dc1faae",
+      "title": "The Jazz Room: Journey to the Heart of Cuba",
+      "venue": "Studio Bell",
+      "start": "2026-12-18T20:30:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/the-jazz-room-2026-12-18/",
+      "description": "Welcome to The Jazz Room! Step into iconic venues, be swept away by world-class musicians, and rediscover timeless hits and legendary tributes."
     },
     {
       "id": "ad3af4d276804a93",
@@ -1314,12 +1324,28 @@
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
+      "id": "84567e8069600edb",
+      "title": "Candlelight Jazz: The Best of Frank Sinatra & Nat King Cole ft. Barry Shaw",
+      "venue": "Studio Bell",
+      "start": "2026-12-27T18:30:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/candlelight-2026-12-27/",
+      "description": "Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations."
+    },
+    {
       "id": "7aace1c79a8ae0cb",
       "title": "Laugh Loft Stand-Up Comedy",
       "venue": "The Attic",
       "start": "2026-12-27T19:30:00-06:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "1fcdaec48f4a0f6e",
+      "title": "Candlelight Jazz: The Best of Frank Sinatra & Nat King Cole ft. Barry Shaw",
+      "venue": "Studio Bell",
+      "start": "2026-12-27T20:30:00-06:00",
+      "url": "https://www.studiobell.ca/whats-on/event/candlelight-2026-12-27/",
+      "description": "Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations."
     },
     {
       "id": "ae2e801879534a90",
@@ -1380,12 +1406,28 @@
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
+      "id": "9427ef1942a76e98",
+      "title": "Happy Hour with The Wine Soaked Preachers",
+      "venue": "The King Eddy",
+      "start": "2027-01-08T16:30:00-06:00",
+      "url": "https://kingeddy.ca/event/happy-hour-with-the-wine-soaked-preachers-19/",
+      "description": "4:30 pm No cover"
+    },
+    {
       "id": "e6a5b8b820ed64af",
       "title": "Carly's Angels Drag Show",
       "venue": "The Attic",
       "start": "2027-01-09T20:00:00-06:00",
       "url": "https://www.theatticyyc.ca/events",
       "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "4513649808ae0646",
+      "title": "Songsmith Sundays with Carter Felker",
+      "venue": "The King Eddy",
+      "start": "2027-01-10T11:30:00-06:00",
+      "url": "https://kingeddy.ca/event/songsmith-sundays-with-carter-felker-231/",
+      "description": "11:30 am No cover"
     },
     {
       "id": "b6d1672ddfd9474f",
@@ -1585,25 +1627,74 @@
       "description": "Recurring series published by The Attic; confirm details before attending."
     },
     {
+      "id": "00b0829f5a0248cf",
+      "title": "Thursday Live Music",
+      "venue": "The Nash / Offcut Bar",
+      "start": "2027-02-18T19:00:00-06:00",
+      "url": "https://www.offcutbar.com/sesh",
+      "description": "No cover. Recurring Thursday live music; confirm details before attending.",
+      "end": "2027-02-18T21:00:00-06:00"
+    },
+    {
+      "id": "9aff0c76a84e3370",
+      "title": "Jazz & Soul at The Attic",
+      "venue": "The Attic",
+      "start": "2027-02-18T19:30:00-06:00",
+      "url": "https://www.theatticyyc.ca/events",
+      "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "9a74017070aa38f4",
+      "title": "Carly's Angels Drag Show",
+      "venue": "The Attic",
+      "start": "2027-02-20T20:00:00-06:00",
+      "url": "https://www.theatticyyc.ca/events",
+      "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "17845d6ef1bd143f",
+      "title": "Devilled Legs Drag Brunch",
+      "venue": "The Attic",
+      "start": "2027-02-21T11:45:00-06:00",
+      "url": "https://www.theatticyyc.ca/events",
+      "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
+      "id": "1422e3951a4fd6b5",
+      "title": "Laugh Loft Stand-Up Comedy",
+      "venue": "The Attic",
+      "start": "2027-02-21T19:30:00-06:00",
+      "url": "https://www.theatticyyc.ca/events",
+      "description": "Recurring series published by The Attic; confirm details before attending."
+    },
+    {
       "id": "fa300a53d89daf0f",
       "title": "Jean-Michel Blais at Festival Hall",
       "venue": "Festival Hall",
       "start": "2027-04-28T19:00:00-06:00",
       "url": "https://www.showpass.com/jean-michel-blais/",
       "description": "Venue: Festival Hall"
+    },
+    {
+      "id": "52d3c3e6d1289941",
+      "title": "Happy Hour with The Haybelles",
+      "venue": "The King Eddy",
+      "start": "2027-11-13T16:30:00-06:00",
+      "url": "https://kingeddy.ca/event/happy-hour-with-the-haybelles/",
+      "description": "4:30 pm No cover"
     }
   ],
   "sources": [
     {
       "venue": "The Attic",
       "ok": true,
-      "events": 62,
+      "events": 63,
       "url": "https://www.theatticyyc.ca/events"
     },
     {
       "venue": "Central Library",
       "ok": true,
-      "events": 5,
+      "events": 4,
       "url": "https://www.calgarylibrary.ca/events-and-programs"
     },
     {
@@ -1627,7 +1718,7 @@
     {
       "venue": "Gravity Espresso & Wine Bar",
       "ok": true,
-      "events": 20,
+      "events": 16,
       "url": "https://www.gravitycoffeeroasters.com/"
     },
     {
@@ -1651,7 +1742,7 @@
     {
       "venue": "Ironwood Stage & Grill",
       "ok": true,
-      "events": 42,
+      "events": 34,
       "url": "https://ironwoodstage.ca/events/"
     },
     {
@@ -1687,13 +1778,13 @@
     {
       "venue": "Studio Bell",
       "ok": true,
-      "events": 37,
+      "events": 49,
       "url": "https://www.studiobell.ca/whats-on"
     },
     {
       "venue": "The King Eddy",
       "ok": true,
-      "events": 16,
+      "events": 36,
       "url": "https://kingeddy.ca/whats-on/"
     },
     {
